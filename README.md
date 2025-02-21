@@ -1,5 +1,3 @@
-# Business Analytics Survey Dashboard 🚀📊
-
 ## Overview
 This Power BI dashboard provides key insights into the experiences, preferences, and challenges faced by professionals in the business analytics industry. The project transforms raw survey data into meaningful, data-driven insights to help understand industry trends.
 
